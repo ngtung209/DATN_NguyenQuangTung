@@ -1,0 +1,20 @@
+# Thu muc Build/Binary
+[Bb]in/
+[Oo]bj/
+
+# Files cau hinh va tam thoi Visual Studio
+*.suo
+*.user
+*.vspscc
+*.vssscc
+.vs/
+
+# Files du lieu (MDF/LDF/DB) local khong can thiet
+*.mdf
+*.ldf
+
+# Files backup (De neu ban khong muon commit file .bak cu)
+# Tuy nhien, chung ta se add file .bak moi thu cong
+
+# Bo qua cac files khac
+Thumbs.db

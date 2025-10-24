@@ -38,7 +38,7 @@ namespace WebsiteNoiThat.Controllers
             {
                 var dao = new UserDao();
                 //var result = dao.Login(model.UserName, model.Password);
-                var result = dao.Login(model.UserName, model.Password);
+                var result = dao.Login(model.UserName, Encryptor.MD5Hash(model.Password));
 
                 if (result == 1)
                 {

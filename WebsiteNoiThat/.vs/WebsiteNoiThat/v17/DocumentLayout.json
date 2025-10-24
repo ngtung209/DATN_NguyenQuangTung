@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\",
+  "WorkspaceRootPath": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\websitenoithat\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|c:\\users\\nguye\\desktop\\datn_nguyenquangtung\\websitenoithat\\websitenoithat\\views\\registerandlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\registerandlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|d:\\doantotnghiepd\\website-ban-noi-that-main\\website-ban-noi-that-main\\websitenoithat\\websitenoithat\\controllers\\registerandlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\controllers\\registerandlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\websitenoithat\\controllers\\categoryproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\controllers\\categoryproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterAndLoginController.cs",
-              "DocumentMoniker": "D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\RegisterAndLoginController.cs",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\RegisterAndLoginController.cs",
-              "ToolTip": "D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\RegisterAndLoginController.cs",
-              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\RegisterAndLoginController.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAYwDAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:49:38.83Z",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T06:49:07.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CategoryProductController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\CategoryProductController.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\CategoryProductController.cs",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\CategoryProductController.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\CategoryProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:48:02.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T09:08:54.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T15:39:58.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Web.config",
-              "ToolTip": "D:\\doantotnghiepD\\website-ban-noi-that-main\\website-ban-noi-that-main\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\DATN_NguyenQuangTung\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
               "RelativeToolTip": "WebsiteNoiThat\\Web.config",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAYwJIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowJAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-02T11:04:20.998Z",
+              "WhenOpened": "2025-10-06T13:15:14.704Z",
               "EditorCaption": ""
             }
           ]
